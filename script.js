@@ -1,1 +1,2 @@
-console.log("My Javascript works!")
+//Calculaate and return the total for a sale
+
