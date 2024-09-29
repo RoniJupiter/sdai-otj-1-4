@@ -1,13 +1,31 @@
-/* webpage main title */
+/* webpage main title h1 */
 .main-title {
     color: rgb(22, 161, 185);
     text-align: center;
 }
 
-/* center menu title, 800px */
+/* center menu title, width 800px */
 .menu-title {    
     text-align: center;
     width: 800px;
 }
+
+/*Style Headings: Apply specified font family, size, margin, and color to h1, h2, h3, and h4 using element selectors.*/
+.headings {
+    font-family: ;
+    font-size: ;
+    margin: ;
+    color: rgb(22, 161, 185)
+}
+
+/*Style Menu Descriptions: Use a class selector for styling the text inside paragraph elements that describe each menu item.*/
+.menu-p {
+    font: ;
+}
+
+/*Adjust Line Height: Modify line height to enhance text readability.*/
+
+
+/*Adjust Spacing: Apply margin and padding to ensure proper spacing around paragraphs and headings.*/
 
 
