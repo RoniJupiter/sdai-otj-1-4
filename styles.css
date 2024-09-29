@@ -4,9 +4,10 @@
     text-align: center;
 }
 
-/* menu title */
-.h2 {    
+/* center menu title, 800px */
+.menu-title {    
     text-align: center;
+    width: 800px;
 }
 
 
