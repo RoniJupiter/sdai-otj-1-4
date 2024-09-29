@@ -1,0 +1,11 @@
+/* webpage main title */
+.main-title {
+    color: rgb(22, 161, 185);
+    text-align: center;
+}
+
+/* paragraph */
+.p {
+    color: red;
+    font-family: 'Lucida Sans Regular';
+  }
